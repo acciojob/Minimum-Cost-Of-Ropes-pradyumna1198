@@ -29,7 +29,7 @@ function calculateMinCost() {
       }
 
       // Display the minimum cost in the result div
-      document.getElementById("result").innerHTML = "Minimum Cost: " + totalCost;
+      document.getElementById("result").innerHTML =totalCost;
     }
   
   
